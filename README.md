@@ -1,9 +1,4 @@
 # Docker Deployment Troubleshooting Assistant
-## Member 1 — Docker Log Processing & Normalization
-
-This module is the foundational data ingestion and processing layer of the **Docker Deployment Troubleshooting Assistant**. It converts unstructured, noisy, raw Docker deployment logs into clean, standardized JSON objects for downstream consumption by **Member 2 (Docker RAG)** and **Member 3 (AI Agent & LLM)**.
-
----
 
 ## 1. Overview & Architecture
 
