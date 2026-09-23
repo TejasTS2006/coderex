@@ -321,7 +321,7 @@ python scripts/generate_examples.py
 
 ---
 
-## 10. Downstream Integration Guide (Members 2 & 3)
+## 10. Downstream Integration Guide
 
 For team members implementing the RAG retrieval and LLM agents:
 
