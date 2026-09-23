@@ -1,0 +1,7 @@
+{
+  "error_message": "The command '/bin/sh -c go build -o main .' returned a non-zero code: 1",
+  "error_type": "docker_build_failure",
+  "service": "docker",
+  "context": "docker image build",
+  "raw_log": "The command '/bin/sh -c go build -o main .' returned a non-zero code: 1"
+}

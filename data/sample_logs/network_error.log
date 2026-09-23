@@ -1,0 +1,2 @@
+docker: Error response from daemon: network custom-bridge-net not found.
+Error: failed to connect container to network

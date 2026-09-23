@@ -1,0 +1,7 @@
+{
+  "error_message": "Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?",
+  "error_type": "docker_daemon_error",
+  "service": "docker",
+  "context": "docker daemon",
+  "raw_log": "Cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running?"
+}

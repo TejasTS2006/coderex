@@ -1,0 +1,7 @@
+{
+  "error_message": "port is already allocated",
+  "error_type": "port_conflict",
+  "service": "docker",
+  "context": "container startup",
+  "raw_log": "Bind for 0.0.0.0:8080 failed: port is already allocated"
+}

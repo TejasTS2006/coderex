@@ -1,0 +1,3 @@
+[internal] load build definition from Dockerfile
+transferring dockerfile: 358B done
+ERROR: failed to solve: Dockerfile parse error: unknown instruction: ENVIROMENT

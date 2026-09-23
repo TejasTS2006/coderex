@@ -1,0 +1,2 @@
+docker: Error response from daemon: No such image: custom-auth-service:v2.4
+Error: failed to create container

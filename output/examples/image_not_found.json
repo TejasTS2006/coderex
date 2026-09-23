@@ -1,0 +1,7 @@
+{
+  "error_message": "No such image: custom-auth-service:v2.4",
+  "error_type": "image_not_found",
+  "service": "docker",
+  "context": "image pull",
+  "raw_log": "docker: Error response from daemon: No such image: custom-auth-service:v2.4"
+}

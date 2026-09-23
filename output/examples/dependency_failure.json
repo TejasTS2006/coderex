@@ -1,0 +1,7 @@
+{
+  "error_message": "No matching distribution found for xyz-package",
+  "error_type": "dependency_installation_failure",
+  "service": "docker",
+  "context": "docker image build",
+  "raw_log": "ERROR: Could not find a version that satisfies the requirement xyz-package\nERROR: No matching distribution found for xyz-package"
+}

@@ -1,0 +1,2 @@
+docker: Error response from daemon: No such container: payment-service-backend
+Error: failed to stop containers: [payment-service-backend]

@@ -1,0 +1,7 @@
+{
+  "error_message": "No such container: payment-service-backend",
+  "error_type": "container_not_found",
+  "service": "docker",
+  "context": "container startup",
+  "raw_log": "docker: Error response from daemon: No such container: payment-service-backend"
+}

@@ -1,0 +1,7 @@
+{
+  "error_message": "connection refused",
+  "error_type": "database_connection_failure",
+  "service": "docker",
+  "context": "application startup",
+  "raw_log": "psycopg2.OperationalError: connection refused"
+}

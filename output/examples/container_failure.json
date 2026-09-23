@@ -1,0 +1,7 @@
+{
+  "error_message": "failed to create task for container: failed to create shim task: OCI runtime create failed: container_linux.go:380: starting container process caused: exec: \"/app/entrypoint.sh\": stat /app/entrypoint.sh: no such file or directory: unknown.",
+  "error_type": "container_startup_failure",
+  "service": "docker",
+  "context": "container startup",
+  "raw_log": "docker: Error response from daemon: failed to create task for container: failed to create shim task: OCI runtime create failed: container_linux.go:380: starting container process caused: exec: \"/app/entrypoint.sh\": stat /app/entrypoint.sh: no such file or directory: unknown."
+}

@@ -1,0 +1,7 @@
+{
+  "error_message": "touch: cannot touch '/var/log/app.log': Permission denied",
+  "error_type": "permission_error",
+  "service": "docker",
+  "context": "docker image build",
+  "raw_log": "touch: cannot touch '/var/log/app.log': Permission denied"
+}

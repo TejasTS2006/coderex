@@ -1,0 +1,7 @@
+{
+  "error_message": "failed to connect container to network",
+  "error_type": "network_error",
+  "service": "docker",
+  "context": "network configuration",
+  "raw_log": "Error: failed to connect container to network"
+}

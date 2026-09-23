@@ -1,0 +1,4 @@
+Step 3/5 : RUN pip install -r requirements.txt
+ERROR: Could not find a version that satisfies the requirement xyz-package
+ERROR: No matching distribution found for xyz-package
+The command '/bin/sh -c pip install -r requirements.txt' returned a non-zero code: 1

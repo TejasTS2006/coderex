@@ -1,0 +1,7 @@
+{
+  "error_message": "failed to solve: Dockerfile parse error: unknown instruction: ENVIROMENT",
+  "error_type": "dockerfile_error",
+  "service": "docker",
+  "context": "docker image build",
+  "raw_log": "ERROR: failed to solve: Dockerfile parse error: unknown instruction: ENVIROMENT"
+}

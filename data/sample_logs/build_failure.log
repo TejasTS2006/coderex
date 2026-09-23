@@ -1,0 +1,12 @@
+Step 1/4 : FROM golang:1.21-alpine
+ ---> 4f85e492b45e
+Step 2/4 : WORKDIR /app
+ ---> Using cache
+ ---> 9b2d8e9cf944
+Step 3/4 : COPY . .
+ ---> Using cache
+ ---> e771960d7c71
+Step 4/4 : RUN go build -o main .
+main.go:12:2: undefined: ConfigManager
+The command '/bin/sh -c go build -o main .' returned a non-zero code: 1
+executor failed running [/bin/sh -c go build -o main .]: exit code: 1

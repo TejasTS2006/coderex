@@ -1,0 +1,7 @@
+{
+  "error_message": "pull access denied",
+  "error_type": "image_pull_failure",
+  "service": "docker",
+  "context": "image pull",
+  "raw_log": "pull access denied for my-app, repository does not exist or may require authorization"
+}

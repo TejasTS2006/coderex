@@ -1,0 +1,3 @@
+Step 4/5 : RUN touch /var/log/app.log
+touch: cannot touch '/var/log/app.log': Permission denied
+The command '/bin/sh -c touch /var/log/app.log' returned a non-zero code: 1

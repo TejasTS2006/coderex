@@ -1,0 +1,4 @@
+Starting container my-app...
+docker: Error response from daemon:
+Bind for 0.0.0.0:8080 failed:
+port is already allocated.
